@@ -116,7 +116,9 @@ if os.path.exists(favorites)==True:
     FAV = open(favorites).read()
 else: FAV = []
 
-SOURCES = [{"description": ": Lista de Canales para el Livestreamspro :", "title": "jhsList ", "url": "http://adryanlist.info", "fanart": "http://i.imgur.com/7izulmv.jpg", "genre": "Tv Live", "date": "13.02.2015", "credits": "jhs", "thumbnail": "http://i.imgur.com/MWSXNtp.png"}]
+#SOURCES = [{"description": ": Lista de Canales para el Livestreamspro :", "title": "jhsList ", "url": "http://adryanlist.info", "fanart": "http://i.imgur.com/7izulmv.jpg", "genre": "Tv Live", "date": "13.02.2015", "credits": "jhs", "thumbnail": "http://i.imgur.com/MWSXNtp.png"}]
+
+SOURCES = [{"url": "https://raw.githubusercontent.com/adrianhn/adryanlist/master/list.xml", "fanart": "http://i.imgur.com/JVP10CX.jpg", "thumbnail": "http://i.imgur.com/7QNZ8LO.png"}]
 
 # http://i.imgur.com/GyK9PGj.jpg
 # http://i.imgur.com/eklZFBE.png
