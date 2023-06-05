@@ -1,0 +1,481 @@
+#EXTM3U
+#EXTINF:0,80's
+https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/128/master.m3u8
+#EXTINF:0,Stingray Today's Latin Pop (1080p)
+https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/190/master.m3u8
+#EXTINF:0,PBS Utah
+https://livestream.pbskids.org/out/v1/1e3d77b418ad4a819b3f4c80ac0373b5/est.m3u8
+#EXTINF:0,novakidstv
+https://stmv1.cnarlatam.com/novakidstv/novakidstv/playlist.m3u8
+#EXTINF:0,AccuWeather Now (1080p)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00684-accuweather-accuweather-plex/playlist.m3u8
+#EXTINF:0,astronet
+https://stmv1.cnarlatam.com/astronet/astronet/playlist.m3u8
+#EXTINF:0,mundotv
+https://stmv1.cnarlatam.com/mundotv/mundotv/playlist.m3u8
+#EXTINF:0,Antena 3 Esp
+http://hidra.live:80/daqgsrmi/6MlLh8s0p3/303674
+#EXTINF:0,Chilevision
+http://187.102.209.92:9010/play/a05g/index.m3u8
+#EXTINF:0,CBS
+https://v-px.mybtv.net/live/48.m3u8
+#EXTINF:0,nbc
+https://v-ny.mybtv.net/live/548.m3u8
+#EXTINF:0,ME tv
+https://v-ny.mybtv.net/live/637.m3u8
+#EXTINF:0,FOX 13 Tampa Bay FL (WTVT) (720p)
+https://dcs-live-uc1.mp.lura.live/server/play/G7R4amnSOYJGH3PA/rendition.m3u8?track=video-0&anvsid=m177626909-nfad334d8647e2f2a948ad5134322c1bd&ts=1685140768&anvtrid=296a7a1a4413318a0cf4a3053b2a3b94
+#EXTINF:0,Marti Noticias
+https://ocb-ingest.akamaized.net/hls/live/2037032/tvmc01/playlist_1080.m3u8
+#EXTINF:0,WPBF-TV News West Palm Beach FL (720p)
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WPBF.m3u8
+#EXTINF:0,France ESP
+https://www.youtube.com/watch?v=XDJPzMznAjU
+#EXTINF:0,Cinevault Westerns (540p)
+https://20995731713c495289784ab260b3c830.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_CinevaultWesterns/playlist.m3u8
+#EXTINF:0,Pelis del Oeste
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-63489eff90b96ef5e0eb3282.m3u8?X-Plex-Client-Identifier=4f10a11d0159055e-com-plexapp-android&X-Plex-Client-Platform=Android&X-Plex-Token=BHaTYUJDMfSCZAz8amY3
+#EXTINF:0,CNN
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+#EXTINF:0,ABC
+http://72.76.116.158:8000/play/a08l/index.m3u8
+#EXTINF:0,FOX 5
+http://72.76.116.158:8000/play/a075/index.m3u8
+#EXTINF:0,TELEMUNDO
+http://72.76.116.158:8000/play/a07a/index.m3u8
+#EXTINF:0,UNIMAS
+http://72.76.116.158:8000/play/a08b/index.m3u8
+#EXTINF:0,UNIVISION
+http://72.76.116.158:8000/play/a07t/index.m3u8
+#EXTINF:0,Univision Digital
+http://168.227.22.18:1935/live/mobile-045/playlist.m3u8
+#EXTINF:0,Univision
+https://v-ny.mybtv.net/live/643.m3u8
+#EXTINF:0,Telexitos
+https://v-ny.mybtv.net/live/660.m3u8
+#EXTINF:0,UniMás
+https://v-ny.mybtv.net/live/713.m3u8
+#EXTINF:0,UniMás
+https://v-px.mybtv.net/live/56.m3u8
+#EXTINF:0,UniMás
+https://v-px.mybtv.net/live/201.m3u8
+#EXTINF:0,VisionLatina
+https://v-ny.mybtv.net/live/1146.m3u8
+#EXTINF:0,Univision Miami web
+https://unidfp-nlds155.global.ssl.fastly.net/nlds/univisionnow/univision_east2/as/live/univision_east2_hd_4500_pc.m3u8?hdnea=st=1678678751~exp=1678765151~acl=*~hmac=fd8a5dde80086b0eb71e2fe5f76c93dd10296454c63678d6c934c5250d515e35&fdvr=dvr
+#EXTINF:0,Telemundo
+https://v-px.mybtv.net/live/39.m3u8
+#EXTINF:0,Telemundo
+http://hidra.live:80/ypamzjtt/xY2597mnGj/313689
+#EXTINF:0,TELEMUNDO Internacional
+http://hidra.live:80/live/daqgsrmi/6MlLh8s0p3/43925.ts
+#EXTINF:0,TELEMUNDO MIAMI
+http://hidra.live:80/live/daqgsrmi/6MlLh8s0p3/312722.ts
+#EXTINF:0,UNIVISION MIAMI
+http://hidra.live:80/live/daqgsrmi/6MlLh8s0p3/35153.ts
+#EXTINF:0,Mega TV PR
+https://livestream.lamusica.com/megatvP320/ngrp:megatvP320_all/playlist.m3u8
+#EXTINF:0,adn40
+https://v-sd.mybtv.net/live/484.m3u8
+#EXTINF:0,Canal 5
+https://v-sd.mybtv.net/live/486.m3u8
+#EXTINF:0,Azteca uno
+https://v-sd.mybtv.net/live/760.m3u8
+#EXTINF:0,bein extra
+https://v-pi.mybtv.net/live/341.m3u8
+#EXTINF:-1 ,Win Sports
+http://181.39.202.98:9993/play/a16c/index.m3u8
+
+#EXTINF:-1 ,Win Sports+
+http://181.39.202.98:9993/play/a17i/index.m3u8
+
+#EXTINF:0,24h TVE Canárias
+https://ztnr.rtve.es/ztnr/5473142.m3u8
+#EXTINF:0,24h TVE Catalunya
+https://ztnr.rtve.es/ztnr/4952053.m3u8
+#EXTINF:0,Deutsche Welle Español
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8
+#EXTINF:0,Euronews en Español (720p)  (News)
+https://rakuten-euronews-4-es.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:0,CANAL 26 HD
+http://live-edge01.telecentro.net.ar/live/26hd-360/playlist.m3u8
+#EXTINF:0,Canal 26
+http://200.115.193.177/live/26hd-720/.m3u8
+#EXTINF:0,Canal 26
+http://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8
+#EXTINF:0,Canal 26
+https://delivery.cdn.rcs.net.ar/mnp/canal26/output.mpd
+#EXTINF:0,T13 | CL
+https://unlimited1-cl-isp.dps.live/t13/t13.smil/playlist.m3u8
+#EXTINF:0,CGTN ESPAÑOL
+https://livees.cgtn.com/1000e/prog_index.m3u8
+#EXTINF:0,teleSUR (Venezuela)
+https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/.m3u8
+#EXTINF:0,Telesur
+https://cdnesmain.telesur.ultrabase.net/mbliveMain/360p/chunklist.m3u8
+#EXTINF:0,Telesur English
+https://cdnenmain.telesur.ultrabase.net/mblivev3/hd/playlist.m3u8
+#EXTINF:0,Global News National
+https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/.m3u8
+#EXTINF:0,CNN
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_2_1964000.m3u8
+#EXTINF:0,CNN
+https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:0,CNN USA
+http://iptu.org/ch/cnninternational.m3u8
+#EXTINF:0,CNN USA
+https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+#EXTINF:0,Jurasic 4
+https://vod-normal-global-cdn-z02.afreecatv.com/v101/afflv14/_definst_/mp4:save/afreeca/station/2022/0725/12/1658720035190551.mp4/playlist.m3u8
+#EXTINF:0,Red+ [Geo-blocked]
+https://inforedvos.lcdn.claro.net.co/Content/HLS_HLS_DIR/Live/channel(REDMASHDWEB)
+#EXTINF:0,Cablenoticias.co
+https://5ea86ddd14ce7.streamlock.net/live/cable09061970/playlist.m3u8
+#EXTINF:0,Caracol HD
+http://190.187.154.151:8000/play/a083/index.m3u8
+#EXTINF:0,Caracol HD
+http://190.60.39.198:8000/play/a046/index.m3u8
+#EXTINF:0,Caracol HD
+http://190.83.60.34:1414/play/a054
+#EXTINF:0,Caracol HD
+http://181.78.24.187:8006/play/a0bb/index.m3u8
+#EXTINF:0,Caracol  
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36
+https://us-b4-p-e-nq15.cdn.mdstrm.com/live-stream/574463697b9817cf0886fc17/publish/media_2000.m3u8?uid=j9XAaMx9ZP1IBd4kZmvSIBEIVuedKN34&sid=eJ6qVKOK8698NjeFKPolNSYJLzGkPRRv&pid=xpAvtS61cNFKFImNfPYDpmWm8NgZMFRs&ref=https%3A%2F%2Fwww.caracoltv.com%2F&without_cookies=false&listenerid=&dnt=true&ote=1659663804505&ot=EjzmXNwCuNC0qLFjFMqvCg&es=us-b4-p-e-nq15.cdn.mdstrm.com&proto=https&pz=us&aid=574462d1cab0f4d50866f001
+#EXTINF:0,Caracol  
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36
+https://us-b4-p-e-nq15.cdn.mdstrm.com/live-stream/574463697b9817cf0886fc17/publish/media_800.m3u8?uid=j9XAaMx9ZP1IBd4kZmvSIBEIVuedKN34&sid=eJ6qVKOK8698NjeFKPolNSYJLzGkPRRv&pid=xpAvtS61cNFKFImNfPYDpmWm8NgZMFRs&ref=https%3A%2F%2Fwww.caracoltv.com%2F&without_cookies=false&listenerid=&dnt=true&ote=1659663804505&ot=EjzmXNwCuNC0qLFjFMqvCg&es=us-b4-p-e-nq15.cdn.mdstrm.com&proto=https&pz=us&aid=574462d1cab0f4d50866f001
+
+
+#EXTINF:0,Caracol (geo)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36
+http://mdstrm.com/live-stream-playlist/574463697b9817cf0886fc17.m3u8
+#EXTINF:0,Caracol Ahora (geo)
+http://mdstrm.com/live-stream-playlist/58dc3d471cbe05ff3c8e463e.m3u8
+#EXTINF:0,Caracol Ahora (geo)
+http://mdstrm.com/live-stream-playlist/589b13f631f1bebd088ff753.m3u8
+#EXTINF:0,Caracol H2 Orig
+https://mdstrm.com/live-stream-playlist/58d1afd8ae0dc8c4085a453f.m3u8
+#EXTINF:0,Caracol H2
+https://us-b4-p-e-ev5.cdn.mdstrm.com/live-stream/58d1afd8ae0dc8c4085a453f/publish/media_1000.m3u8?uid=VGMqcmig5vcEilN5tHEtXBk608GtmT5l&sid=Y9X90FrUazf2GvEqH0QT7UcBbLpfOOGm&pid=3pKA7H55MtGNUGY7EFcejq8TJfLe3dyz&ref=https://noticias.caracoltv.com/criterium-dauphine&dnt=true&es=us-b4-p-e-ev5.cdn.mdstrm.com&ote=1597409506236&ot=DvqCJ4gMQznkSxjBmLTTJQ&proto=https&pz=ushttps://us-b4-p-e-ev5.cdn.mdstrm.com/live-stream/574463697b9817cf0886fc17/publish/media_2400.m3u8?uid=1aPnXve5qVFAZjs6PfqFOiQL009lKMlQ&sid=joE0m0Q6YD2sQgzJcSSWe48wxpACIAea&pid=aMGdOooONBfl6cioMFNvfgIZoxQFBnp2&ref=https%3A%2F%2Flive2.caracoltv.com%2FplayerSelectorCS%2Fplayer.html&dnt=true&es=us-b4-p-e-ev5.cdn.mdstrm.com&ote=1594594413121&ot=Y9z2Nr4gXUswQqXY12nzYg&proto=https&pz=us|User-Agent=Mozilla/5.0
+#EXTINF:0,Caracol H2
+https://us-b4-p-e-ev5.cdn.mdstrm.com/live-stream/58d1afd8ae0dc8c4085a453f/publish/media_1000.m3u8?uid=VGMqcmig5vcEilN5tHEtXBk608GtmT5l&sid=Y9X90FrUazf2GvEqH0QT7UcBbLpfOOGm&pid=3pKA7H55MtGNUGY7EFcejq8TJfLe3dyz&ref=https://noticias.caracoltv.com/criterium-dauphine&dnt=true&es=us-b4-p-e-ev5.cdn.mdstrm.com&ote=1597409506236&ot=DvqCJ4gMQznkSxjBmLTTJQ&proto=https&pz=us
+#EXTINF:0,Caracol H2
+https://us-b4-p-e-ev5.cdn.mdstrm.com/live-stream/58d1afd8ae0dc8c4085a453f/publish/media_1000.m3u8?uid=VGMqcmig5vcEilN5tHEtXBk608GtmT5l&sid=Y9X90FrUazf2GvEqH0QT7UcBbLpfOOGm&pid=3pKA7H55MtGNUGY7EFcejq8TJfLe3dyz&ref=https://noticias.caracoltv.com/criterium-dauphine&dnt=true&es=us-b4-p-e-ev5.cdn.mdstrm.com&ote=1597409506236&ot=DvqCJ4gMQznkSxjBmLTTJQ&proto=https&pz=us
+#EXTINF:0,Caracol H2
+https://us-b4-p-e-cg11.cdn.mdstrm.com/live-stream/58d1af11b6318eec59278b18/publish/media_200.m3u8?aid=589b1365f30bc52f54100dd8&uid=Vwji1Sq6orkOr1XMXUrd6VJksW63gHjR&sid=vcdJXaf4fpRER6a3ych8PJqDsTLrMzot&pid=OtMZ9LCzdRZqieQowMHI2qhwk0lWB1Od&ref=https%3A%2F%2Fsports.caracoltv.com%2F&without_cookies=false&listenerid=&dnt=true&es=us-b4-p-e-cg11.cdn.mdstrm.com&ote=1658062658929&ot=-X2bRJyxfYgPRv8xgws9lw&proto=https&pz=us
+#EXTINF:0,CANAL CAPITAL
+https://live-edge-eu-1.cdn.enetres.net/C99D9A0676F3401589C768D47D31605C021/live-2500/index.m3u8
+#EXTINF:0,Canal Uno
+http://hidra.live:80/live/daqgsrmi/6MlLh8s0p3/304224.ts
+
+#EXTINF:0,Canal 1
+http://181.78.75.11:9500/play/a02y/index.m3u8
+#EXTINF:0,90 min
+https://live-edge-bhs-1.cdn.enetres.net/184784E1D210401F8041E3E1266822CC021/live-2500/index.m3u8
+#EXTINF:0,RCN
+http://181.78.12.119:16123/play/ch59a/index.m3u8
+#EXTINF:0,RCN HD
+http://181.78.24.187:8006/play/a0bk/index.m3u8
+#EXTINF:0,RCN HD
+http://181.78.11.238:8000/play/a03o/index.m3u8
+#EXTINF:0,RCN HD
+http://181.78.21.206:8000/play/a03o/index.m3u8
+#EXTINF:0,RCN +
+https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:0,RCN (0HE75RGSqqnhnSdEMl12Z)(3)
+https://stream-03.nyc.dailymotion.com/sec(RTXUFuzJRHwPimV0dxTfP5hom76mizIObYq1-5z7DJ51nV6xgYjk4lDOXnyajfQBIOhwHEfWSTPOTCZanNRsPN--l-GfUjJrlKUBNEFAyBg)/cloud/3/x7vyv0z/s/live-0.m3u8
+https://stream-11.ix7.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12Zd__yIv-k0N2xGlz2NQvGQX2cvVFKsAneRwUwlyHR7sk)
+#EXTINF:0,RCN (0HE75RGSqqnhnSdEMl12Z)(2)
+https://stream-11.ix7.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12Zd__yIv-k0N2xGlz2NQvGQX2cvVFKsAneRwUwlyHR7sk)
+#EXTINF:0,RCN (0HE75RGSqqnhnSdEMl12Z)(1)
+https://stream-11.ix7.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12Zd__yIv-k0N2xGlz2NQvGQX2cvVFKsAneRwUwlyHR7sk)
+#EXTINF:0,RCN (0HE75RGSqqnhnSdEMl12Z)(0)
+https://stream-11.ix7.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12Zd__yIv-k0N2xGlz2NQvGQX2cvVFKsAneRwUwlyHR7sk)
+#EXTINF:0,Citytv (Colombia)
+http://hidra.live:80/live/daqgsrmi/6MlLh8s0p3/304249.ts
+#EXTINF:0,City TV
+http://200.41.79.165:8000/play/a00g
+#EXTINF:0,City TV
+http://181.78.24.187:8006/play/a0c5/index.m3u8
+#EXTINF:0,SEÑAL COLOMBIA
+http://181.78.12.119:16123/play/ch61/index.m3u8
+#EXTINF:0,Canal institucional tv
+https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/chunklist_b3500000.m3u8
+#EXTINF:0,Canal Institucional HD
+http://181.78.75.11:9500/play/a02c/index.m3u8
+#EXTINF:0,Canal Institucional HD
+http://181.78.24.187:8006/play/a0b5/index.m3u8
+#EXTINF:0,TRECE
+http://181.78.12.119:16123/play/ch64/index.m3u8
+#EXTINF:0,Canal Trece
+http://181.78.75.11:9500/play/a02x/index.m3u8
+#EXTINF:0,TELEANTIOQUIA
+http://181.78.12.119:16123/play/ch65/index.m3u8
+#EXTINF:0,TELEPACIFICO
+http://181.78.12.119:16123/play/ch66/index.m3u8
+#EXTINF:0,TELECAFE
+http://181.78.12.119:16123/play/ch67/index.m3u8
+#EXTINF:0,TELECAFE - CANAL-81
+http://181.78.24.187:8006/play/a0a0/index.m3u8
+#EXTINF:0,TRO
+http://181.78.12.119:16123/play/ch68/index.m3u8
+#EXTINF:0,TV Publica
+http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8
+#EXTINF:0,Canal Visión Dorada (720p) [Not 24/7]
+https://movil.ejeserver.com/live/visiondorada.m3u8
+#EXTINF:0,Retro0
+https://videohd.live:19360/8016/8016.m3u8
+#EXTINF:0,Canal 8
+https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
+#EXTINF:0,adn 40
+https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8?uid=yWrPlTyD0tHjR4UPTJ099bFQlUdPE8lk&sid=IMJuWKoKU3pVFzFue04odb3Clq7Tu9wQ&pid=cgxi14ONhFzIKfwOvpwAH2Deo36F0kxg&an=screen&at=web-app&av=v5.2.170&ref=https%3A%2F%2Flive.adn40.mx%2F&res=1903x659&without_cookies=false&dnt=true
+#EXTINF:0,Contacto Deportivo HD
+https://live.obslivestream.com/cdeportivo/index.m3u8
+#EXTINF:0,Ve +
+http://190.122.96.187:8888/http/006
+#EXTINF:0,nettv
+https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/playlist.m3u8
+#EXTINF:0,cosmos
+https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
+#EXTINF:0,retroplus senal3
+https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/playlist.m3u8
+#EXTINF:0,Real Madrid TV US Version (720p) [Not 24/7]
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Real-Madrid.m3u8
+#EXTINF:0,UAO Play
+https://play.cdn.enetres.net/184784E1D210401F8041E3E1266822CC023/028/playlist.m3u8
+#EXTINF:0,Veo Television (Guadalajara de Buga | Valle del Cauca)
+https://movil.ejeserver.com/live/veotv.m3u8
+#EXTINF:0,Telecaribe (720p)
+https://tkx.mp.lura.live/rest/v2/mcp/video/adstB64MXYxqLZwy?anvack=4gXmVVoVIp3YeECJWm6af3j0mlHwl6vO&eud=SKjoH1L/9Enwo5zQBiBTRfTSNGfENMNO6udm4CQNVvix/L9XX8kucBOvzWalIghNrL5GllGH8ou17ICYGv29Rg==
+#EXTINF:0,Fox Now News
+https://t.co/tM2qFm7eg3
+#EXTINF:0,Telemadrid
+https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/telemadrid_1/index.m3u8
+#EXTINF:0,noovo
+https://pe-ak-lp04a-9c9media.akamaized.net/live/NOOVO/p/dash/00000001/f481c583dbd06b6c/manifest.mpd
+#EXTINF:0,coldscuad
+https://linear-240.frequency.stream/dist/roku/240/hls/master/playlist.m3u8
+#EXTINF:0,Unknown_1
+https://linear-90.frequency.stream/dist/localnow/90/hls/master/playlist.m3u8
+#EXTINF:0,Unknown_11
+https://d2v42hnvh68zz7.cloudfront.net/dist/localnow/213/hls/master/playlist.m3u8
+#EXTINF:0,MULTIVISION  em espanhol
+http://panel.dattalive.com:1935/8250/8250/chunklist_w689217833.m3u8
+#EXTINF:0,VE Plus
+http://190.122.96.187:8888/http/006
+#EXTINF:0,CALI TV
+http://vbox.cehis.net/live-calitv/calitv1/chunklist.m3u8
+#EXTINF:0,Panamericana
+https://cdnhd.iblups.com/hls/ptv2.m3u8
+#EXTINF:0,TV Peru
+https://cdnh8.iblups.com/hls/R9WtilpKKB.m3u8
+#EXTINF:0,TV Peru Noticias
+https://cdnh8.iblups.com/hls/RMuwrdk7M9.m3u8
+#EXTINF:0,CGTN ESPAÑOL
+https://livees.cgtn.com/1000e/prog_index.m3u8
+#EXTINF:0,Top Cine (1080p)
+https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8
+#EXTINF:0,Spirit TV
+https://cdnlive.myspirit.tv/LS-ATL-43240-2/tracks-v1a1/mono.m3u8
+#EXTINF:0,WOW TV SALVADOR
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
+#EXTINF:0,TEN |HD
+http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/chunklist_w1445105875_b1848000.m3u8
+#EXTINF:0,TEN |HD OP2
+rtmp://stream.grupoabchn.com:1935/TENHD/TENLIVEHD_2
+#EXTINF:0,canal malaga
+https://canalmalaga-tv-live.flumotion.com/chunks.m3u8
+#EXTINF:0,Multimedios Costa Rica
+http://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8?ref=http://www.multimedios.com
+#EXTINF:0,Telesur CR
+http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
+#EXTINF:0,Bein xtra
+https://bein-xtra-xumo.amagi.tv/hls/amagi_hls_data_beinAAAAA-bein-xtra-xumoA/CDN/master.m3u8
+#EXTINF:0,CANAL 9 HD
+https://delivery.cdn.rcs.net.ar/mnp/elnueve/output.mpd
+#EXTINF:0,Espn
+https://delivery.cdn.rcs.net.ar/mnp/espn/output.mpd
+#EXTINF:0,tvp
+https://delivery.cdn.rcs.net.ar/mnp/tvp/output.mpd
+#EXTINF:0,tvp
+https://delivery.cdn.rcs.net.ar/mnp/tvp/output.mpd
+#EXTINF:0,24 Horas | CL
+http://mdstrm.com/live-stream-playlist-v/5346f5f2c1e6f5810b5b9df0.m3u8
+#EXTINF:0,#EXT-X-STREAM-INF:SUBTITLES="English"
+http://crackle-xumo.amagi.tv/playlist.m3u8
+#EXTINF:0,#EXT-X-STREAM-INF:SUBTITLES="Spanish"
+http://crackle-xumo.amagi.tv/playlist.m3u8
+#EXTINF:0,LOS 3 CHIFLADOS
+#EXTGRP:247
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f85f1dc1418bd0007e11eb9/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff35bd0-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=025be615-509e-4721-8804-92898ace6781&userId=&serverSideAds=true
+#EXTINF:0,Fox Weather
+#EXTGRP:Weather
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-foxweather-xumo/CDN/master.m3u8
+#EXTINF:0,Ciudadanos por el mundo | Pluto TV Espana
+#EXTGRP:Documentários em espanhol
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/622f42b831233300078658cc/master.m3u8?advertisingId={
+#EXTINF:0,Chilevision Noticias
+#EXTGRP:France
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/627d1e4593b906000734a5e4/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0,CHILEVISION
+#EXTGRP:CHILE
+http://187.102.209.92:9010/play/a05g/index.m3u8
+#EXTINF:0,Classic Arts Showcase
+#EXTGRP:Classic
+https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
+#EXTINF:0,CNA International (1080p)
+#EXTGRP:News
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+#EXTINF:0,RT en Español (1080p) [Geo-blocked]
+#EXTGRP:News
+https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
+#EXTINF:0,DW Español (1080p)
+#EXTGRP:News
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+#EXTINF:0,Pluto TV Euronews (720p) [Not 24/7]
+#EXTGRP:News
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60d3583ef310610007fb02b1/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:0,NHK World
+#EXTGRP:Berita
+https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
+#EXTINF:0,UNIVERSO
+#EXTGRP:USA
+http://167.114.156.136:25461/live/INFINITV/ZX89NM22/165.ts
+#EXTINF:0,WKAQ-DT1 (Telemundo Puerto Rico)
+#EXTGRP:Undefined
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master_1080.m3u8
+#EXTINF:0,América TeVé (WJAN-CD1) (720p)
+#EXTGRP:Undefined
+https://uni01rtmp.tulix.tv/americateve1/americateve1/playlist.m3u8
+#EXTINF:0,Buenísima Radio TV (Gamarra | Cesar) (1080p) [Not 24/7]
+#EXTGRP:Undefined
+https://streamyes.alsolnet.com/buturama/live/playlist.m3u8
+#EXTINF:0,CTV (Barranquilla | Atlántico) (1080p)
+#EXTGRP:Undefined
+https://59a564764e2b6.streamlock.net/ctvbarranquilla/ctv/playlist.m3u8
+#EXTINF:0,Canal C (Santiago de Cali | Valle del Cauca) (720p) [Not 24/7]
+#EXTGRP:Undefined
+https://stmv2.voxtvhd.com.br/canalccali/canalccali/playlist.m3u8
+#EXTINF:0,Canal Nets
+#EXTGRP:Undefined
+https://video.ejeserver.com/live/nets.m3u8
+#EXTINF:0,Canal Visión Dorada (720p) [Not 24/7]
+#EXTGRP:Undefined
+https://movil.ejeserver.com/live/visiondorada.m3u8
+#EXTINF:0,Más TV
+#EXTGRP:Undefined
+https://video.ejeserver.com/live/teledoradahd.m3u8
+#EXTINF:0,Ondambiantal TV (Bogotà | Cundinamarca)
+#EXTGRP:Undefined
+https://server12.videostreaming.net:3230/stream/play.m3u8
+#EXTINF:0,Canal Trece (1080p)
+#EXTGRP:Undefined
+https://stream.logicideas.media/canaltrece-live/smil:live.smil/playlist.m3u8
+#EXTINF:0,Canal Trece + (1080p)
+#EXTGRP:Undefined
+https://stream.logicideas.media/canaltreceplus-live/smil:live1plus.smil/playlist.m3u8
+#EXTINF:0,Telecaribe (720p)
+#EXTGRP:Undefined
+https://tkx.mp.lura.live/rest/v2/mcp/video/adstB64MXYxqLZwy?anvack=4gXmVVoVIp3YeECJWm6af3j0mlHwl6vO&eud=SKjoH1L/9Enwo5zQBiBTRfTSNGfENMNO6udm4CQNVvix/L9XX8kucBOvzWalIghNrL5GllGH8ou17ICYGv29Rg==
+#EXTINF:0,Law & Crime,US | Law & Crime
+#EXTGRP:Undefined
+https://dai.google.com/linear/hls/event/3w3PsYzZQzS8lyRfi7e4mQ/master.m3u8?checkedby:iptvcat.com
+#EXTINF:0,NASA TV (720p)
+#EXTGRP:Science
+https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8
+#EXTINF:0,Euronews
+#EXTGRP:Informativos
+https://euronews-euronews-spanish-2-mx.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:0,SEO TV (720p) [Not 24/7]
+#EXTGRP:General
+https://panel.seo.tv.bo:3645/live/franzleonel0live.m3u8
+#EXTINF:0,TNT West (720p) [Geo-blocked]
+#EXTGRP:General
+https://tve-live-lln.warnermediacdn.com/hls/live/2023170/tntwest/slate/VIDEO_0_3564000.m3u8
+#EXTINF:0,Señal Colombia (1080p)
+#EXTGRP:General
+http://hidra.live:80/live/daqgsrmi/6MlLh8s0p3/304265.ts
+#EXTINF:0,Canal 11 Aysén
+#EXTGRP:General
+https://v1.tustreaming.cl:19360/canal11aysen/canal11aysen.m3u8
+#EXTINF:0,Canal 34 San Juan (720p)
+#EXTGRP:General
+http://streamyes.alsolnet.com/canal34hd/live/playlist.m3u8
+#EXTINF:0,Bolivia TV 7.2 Deportes (720p)
+#EXTGRP:General
+https://5ca3e84a76d30.streamlock.net/boliviatv2/videoboliviatv2/playlist.m3u8
+#EXTINF:0,Bolivia TV (720p) [Not 24/7]
+#EXTGRP:General
+http://boliviatv1.srfms.com:5735/live/livestream/playlist.m3u8
+#EXTINF:0,Weathernation
+#EXTGRP:| Weather
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-Weather-Nation.m3u8
+#EXTINF:0,AccuWeather Now
+#EXTGRP:| Weather
+https://amg00684-accuweather-accuweather-rokuus-0endj.amagi.tv/playlist.m3u8
+#EXTINF:0,Caracol TV (720p) [Geo-blocked]
+#EXTGRP:Colombia
+https://mdstrm.com/live-stream-playlist/574463697b9817cf0886fc17.m3u8
+#EXTINF:0,Retro Plus TV
+#EXTGRP:MUSICA
+https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,Retro Plus TV Señal 2
+#EXTGRP:MUSICA
+https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,Retro Plus TV Señal 3
+#EXTGRP:ENTRETENIMIENTO
+https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/playlist.m3u8?caster
+#EXTINF:0,AtresCine
+#EXTGRP:ENTRETENIMIENTO
+https://live.atresmediainternacional.com/ATRESMEDIA/a3cine-1080.m3u8
+#EXTINF:0,AtresCine
+#EXTGRP:ENTRETENIMIENTO
+https://live.atresmediainternacional.com/ATRESMEDIA/a3cine-720.m3u8
+#EXTINF:0,¡Hola!TV
+#EXTGRP:ENTRETENIMIENTO
+https://live.atresmediainternacional.com/ATRESMEDIA/holatv-1080.m3u8
+#EXTINF:0,¡Hola!TV
+#EXTGRP:ENTRETENIMIENTO
+https://live.atresmediainternacional.com/ATRESMEDIA/holatv-720.m3u8
+#EXTINF:0,Huila TV
+#EXTGRP:Music
+https://plataformavideo.com:19360/8020/8020.m3u8
+#EXTINF:0,Codazzi TV
+https://eu1.servers10.com:19360/8056/8056.m3u8
+#EXTINF:0,Vallenato Internacional (720p) [Not 24/7]
+#EXTGRP:Music
+https://59a564764e2b6.streamlock.net/vallenato/Vallenato2/playlist.m3u8
+#EXTINF:0,MovieFe (360p) [Not 24/7]
+#EXTGRP:Movies
+https://vcp.myplaytv.com/moviefe/ngrp:moviefe_all/playlist.m3u8
+#EXTINF:0,Tastemade en Español (1080p)
+#EXTGRP:Cooking
+https://tastemade-es8intl-roku.amagi.tv/playlist.m3u8
+#EXTINF:0,tvg-id="(no tvg-id)" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/603ef0de115bdc7aec7b7e82" tvg-name="Local Now Drama"  group-title="Drama",Local Now Drama
+#EXTGRP:Drama
+https://linear-141.frequency.stream/dist/localnow/141/hls/master/playlist.m3u8
+#EXTINF:0,RETROPLUS SERIES
+#EXTGRP:CINE Y SERIES
+https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/chunklist_w458806239.m3u8?WebM3UCL
+#EXTINF:0,TELERED
+#EXTGRP:CINE Y SERIES
+http://k4.usastreams.com/ARBtv/teleplus/chunklist_w499579538.m3u8?PlaylistM3UCL
+#EXTINF:0,TELESISTEMA
+#EXTGRP:CINE Y SERIES
+http://k4.usastreams.com/ARBtv/ARBtv/chunklist_w227848239.m3u8?WebM3UCL
+#EXTINF:0,RETROPLUS SERIES
+#EXTGRP:CINE Y SERIES
+https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/chunklist_w458806239.m3u8?WebM3UCL
+#EXTINF:0,TELERED
+#EXTGRP:CINE Y SERIES
+http://k4.usastreams.com/ARBtv/teleplus/chunklist_w499579538.m3u8?PlaylistM3UCL
+#EXTINF:0,TELESISTEMA
+#EXTGRP:CINE Y SERIES
+http://k4.usastreams.com/ARBtv/ARBtv/chunklist_w227848239.m3u8?WebM3UCL
+#EXTINF:0,em espanhol  Frecuencia Musical Tv
+#EXTGRP:CINE
+https://cloud2.streaminglivehd.com:1936/8070/8070/chunklist_w1021977244.m3u8
+#EXTINF:0,All Sports BR
+#EXTGRP:Esportes
+https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8?PEDROJUNIORTUTORIAIS
