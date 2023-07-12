@@ -1,239 +1,130 @@
 #EXTM3U
-
-#EXTINF:-1,ESPN HD
+#EXTINF:-1 ,ESPN HD
 http://181.175.41.170:8000/play/a0gl
-#EXTINF:-1 tvg-logo="https://branditechture.agency/brand-logos/wp-content/uploads/wpdm-cache/ESPN-Deportes-900x0.png" group-title="MEXICO", ESPN Deportes
-https://cdn.live.vidgo.com/Content/HLS/Live/channel(71914-ESPNDHD)/03.m3u8
-
-#EXTINF:0,CITY SPORTS 🇦🇷
-https://videosenlared.fullstreaming.ar:3697/live/contenidos34live.m3u8
-#EXTINF:-1,ESPN HD
+#EXTINF:-1 ,ESPN HD
 http://181.175.41.170:8000/play/a0j8
-#EXTINF:-1,ESPN HD
+#EXTINF:-1 ,ESPN HD
 http://181.78.12.119:16123/play/ch16/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/LaLiga_Santander_logo_%28stacked%29.svg/350px-LaLiga_Santander_logo_%28stacked%29.svg.png" group-title="LIGAS EUROPEAS",LIGA ESPAÑOLA
-http://190.61.102.67:31589/play/a08m/index.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://cdn2.sfntv.xyz/webp/logos/optimized/espn3.webp" group-title="ARGENTINA", ESPN 3 SD
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://cdn2.sfntv.xyz/webp/logos/optimized/espn3.webp",ESPN 3 SD
 http://45.179.140.242:8000/play/a0je
-
-#EXTINF:-1 tvg-logo="https://cdn2.sfntv.xyz/webp/logos/optimized/espn.webp" group-title="ESPN", ESPN A
-http://190.131.247.82:8000/play/a015
-
-
-
-#EXTINF:-1,ESPN 2 HD
+#EXTINF:-1 ,ESPN 2 HD
 http://181.78.12.119:16123/play/ch17/index.m3u8
-#EXTINF:-1,ESPN 3 HD
+#EXTINF:-1 ,ESPN 3 HD
 http://181.78.12.119:16123/play/ch18/index.m3u8
-#EXTINF:-1,ESPN 4 HD
+#EXTINF:-1 ,ESPN 4 HD
 http://181.78.12.119:16123/play/ch19/index.m3u8
-#EXTINF:-1,ESPN 2 HD
+#EXTINF:-1 ,ESPN 2 HD
 http://181.175.41.170:8000/play/a0gn
+#EXTINF:-1,ESPN 2 HD
+http://187.102.208.153:8000/play/a09g/index.m3u8
 #EXTINF:-1,ESPN 3 HD
-http://181.175.41.170:8000/play/a0gm
-#EXTINF:-1,Win Sports
-http://200.41.79.165:8000/play/a04m
-#EXTINF:-1,Win Sports+ HD
-http://200.41.79.165:8000/play/a0js
-#EXTINF:-1,234 Fox Soccer
+http://187.102.208.153:8000/play/a058/index.m3u8
+#EXTINF:-1,ESPN 4 HD
+http://187.102.208.153:8000/play/a05r/index.m3u8
+#EXTINF:-1,ESPN EXTRA HD
+http://187.102.208.153:8000/play/a066/index.m3u8
+#EXTINF:-1,ESPN HD
+http://187.102.208.153:8000/play/a05x/index.m3u8
+#EXTINF:-1,ESPN HD
+http://187.102.208.153:8000/play/a09y/index.m3u8
+#EXTINF:-1 ,234 Fox Soccer
 http://45.143.222.41:8080/dooby1312/b244f7ab/2314
-#EXTINF:-1,234 FS1
+#EXTINF:-1 group-title="World Sports" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/Fox_Soccer_Plus.png",🇺🇸 ➾ Fox Soccer Plusᴴᴰ
+https://bit.ly/3X2yBiX?/master_1.m3u8
+#EXTINF:-1 ,234 FS1
 http://4.26.188.2:8081/udp/239.193.10.101:23901
-#EXTINF:-1,235 FS2
+#EXTINF:-1 ,235 FS2
 http://4.26.188.2:8081/udp/239.193.10.102:23902
-#EXTINF:-1,236 Fox Sports
-https://dizf8i52j4sep.cloudfront.net/out/v1/148af6c03e6d48b0a725611fae5ed3a7/index.mpd
-#EXTINF:-1,237 Fox Sports 2
-https://d17lgdx4t7a4od.cloudfront.net/out/v1/bca3f8d654aa4cb293e4e9801468a5a3/index.mpd
-#EXTINF:-1,238 Fox Sports 3
-https://d14a5mi0m64mw7.cloudfront.net/out/v1/8a240d2e8a64453da6288810ede90a60/index.mpd
-#EXTINF:-1,239 Tennis Channel
+#EXTINF:-1 ,239 Tennis Channel
 https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
-#EXTINF:-1,FOX SPORTS 3
-http://170.83.242.155:5350/play/a014
-#EXTINF:-1,SPORTS TV
+#EXTINF:-1 ,SPORTS TV
 http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
-#EXTINF:-1,SWISS SPORT TV
+#EXTINF:-1 ,SWISS SPORT TV
 https://cdn02.upstream-cloud.ch/sstvlinear/ngrp:sstvlinear_all/chunklist_w1922077967_b2628000.m3u8
-#EXTINF:-1,TELETRAK
+#EXTINF:-1 ,TELETRAK
 http://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
-#EXTINF:-1,TENNIS CHANNEL
-https://dai.google.com/linear/hls/event/Dlqr46ybTSGWGTfRWcxS0g/master.m3u8
-#EXTINF:-1,TENNIS CHANNEL INTERNACIONAL 1
+#EXTINF:-1 ,TENNIS CHANNEL INTERNACIONAL 1
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
-#EXTINF:-1,TENNIS CHANNEL INTERNACIONAL 3
+#EXTINF:-1 ,TENNIS CHANNEL INTERNACIONAL 3
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
-#EXTINF:-1,Sony TEN 5 HD 
-https://dai.google.com/linear/hls/event/Sle_TR8rQIuZHWzshEXYjQ/master.m3u8
-#EXTINF:-1,WOW TV EL SALVADOR 🇸🇻
-https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
-#EXTINF:-1,BT Sport 1
+#EXTINF:-1 ,BT Sport 1
 http://mag.x-iptv.live:80/play/live.php?mac=00:1a:79:02:c9:fa&stream=79486&extension=ts&play_token=fD5kiruCJx
-#EXTINF:-1,SKY Main Event
+#EXTINF:-1 ,SKY Main Event
 http://mag.x-iptv.live:80/play/live.php?mac=00:1a:79:02:c9:fa&stream=79476&extension=ts&play_token=TNsuHo0qlm
-#EXTINF:-1,SKY La Liga
+#EXTINF:-1 ,SKY La Liga
 http://mag.x-iptv.live:80/play/live.php?mac=00:1a:79:02:c9:fa&stream=163611&extension=ts&play_token=n7NJB3ByO0
-#EXTINF:-1,Claro Sports
+#EXTINF:-1 ,Claro Sports
 https://mvk@d3q84yclyte826.cloudfront.net/out/v1/47af0926366f47cea7661fa9c13ff203/index.m3u8?txSecret=7754d7bf2e561a0b85edfc2187adcac3&txTime=64242138&_s=stream&m=1
-#EXTINF:-1,Setanta Ukraine + 🇺🇦
+#EXTINF:-1 ,Setanta Ukraine + 🇺🇦
 http://95.67.12.89:9013
-#EXTINF:-1,Arena 2 HD 🇷🇸
+#EXTINF:-1 ,Arena 2 HD 🇷🇸
 http://94.250.2.6:7374/play/a02n/index.m3u8
-#EXTINF:-1,Arena sport 3 HD 🇷🇸
+#EXTINF:-1 ,Arena sport 3 HD 🇷🇸
 http://94.250.2.6:7374/play/a02o/index.m3u8
-#EXTINF:-1,Arena Sport 4 🇷🇸
+#EXTINF:-1 ,Arena Sport 4 🇷🇸
 http://94.250.2.6:7374/play/a012/index.m3u8
-#EXTINF:-1,Arena 2 HD 🇧🇦
-http://94.250.2.6:7374/play/a02n/index.m3u8
-#EXTINF:-1,Arena sport 3 HD 🇧🇦
-http://94.250.2.6:7374/play/a02o/index.m3u8
-#EXTINF:-1,Arena Sport 4 🇧🇦
-http://94.250.2.6:7374/play/a012/index.m3u8
-#EXTINF:-1,PRIMA SPORT 1 🇷🇴
+#EXTINF:-1 ,PRIMA SPORT 1 🇷🇴
 http://94.53.216.13:9981/stream/channelid/2119101735?profile=pass
-#EXTINF:-1,PRIMA SPORT 2 🇷🇴
+#EXTINF:-1 ,PRIMA SPORT 2 🇷🇴
 http://94.53.216.13:9981/stream/channelid/1796098648?profile=pass
-#EXTINF:-1,Prima Sport 3 🇷🇴
+#EXTINF:-1 ,Prima Sport 3 🇷🇴
 http://94.53.216.13:9981/stream/channelid/1042510375?profile=pass
-#EXTINF:-1, ELEVEN SPORTS 1 HD 🇵🇱
+#EXTINF:-1 ,ELEVEN SPORTS 1 HD 🇵🇱
 http://51.89.67.79:25461/stalker348574985793/stalker348574985793/79
-#EXTINF:-1, ELEVEN SPORTS 2 HD 🇵🇱
+#EXTINF:-1 ,ELEVEN SPORTS 2 HD 🇵🇱
 http://51.89.67.79:25461/stalker348574985793/stalker348574985793/80
-#EXTINF:-1, ELEVEN SPORTS 3 HD 🇵🇱
+#EXTINF:-1 ,ELEVEN SPORTS 3 HD 🇵🇱
 http://51.89.67.79:25461/stalker348574985793/stalker348574985793/81
-#EXTINF:-1, ELEVEN SPORTS 4 HD 🇵🇱
+#EXTINF:-1 ,ELEVEN SPORTS 4 HD 🇵🇱
 http://51.89.67.79:25461/stalker348574985793/stalker348574985793/82
-#EXTINF:-1, ARAB CHANNEL 3 🇸🇦
+#EXTINF:-1 ,ARAB CHANNEL 3 🇸🇦
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriadia-avc1_1000000=3-mp4a_130400_qad=1.m3u8
-#EXTINF:-1, TNT SPORT 🇧🇷
+#EXTINF:-1 ,TNT SPORT 🇧🇷
 http://xcui.vitvabc.xyz:8880/287994016242/287994016242/16760
-#EXTINF:-1, POLSAR SPORT PREMIUM 2 🇵🇱
+#EXTINF:-1 ,POLSAR SPORT PREMIUM 2 🇵🇱
 http://51.89.67.79:25461/stalker348574985793/stalker348574985793/67
-#EXTINF:-1, POLSAR SPORT PREMIUM 1 🇵🇱
+#EXTINF:-1 ,POLSAR SPORT PREMIUM 1 🇵🇱
 http://51.89.67.79:25461/stalker348574985793/stalker348574985793/66
-
-#EXTINF:-1 tvg-logo="https://www.radioextremacr.com/img/logo.png" group-title="INFANTILES",CARTOONS
+#EXTINF:-1 group-title="INFANTILES" tvg-logo="https://www.radioextremacr.com/img/logo.png",CARTOONS
 https://stmv1.cnarlatam.com/novakidstv/novakidstv/playlist.m3u8
-#EXTINF:-1,MULTIPREMIER 
+#EXTINF:-1 ,MULTIPREMIER
 http://160.20.165.246:8000/play/a00b/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/21786965_ico.png" group-title="DEPORTES",UNIVERSO D
-http://208.88.246.11:4481/transco10/9509UNVSO/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|User-Agent=LKSDJ87F943532Q35JR098F7UADUSFQO3I4508FGUQAWJ9RJV4Q390KLDASJF908WR57U98Q43YUIRGTWE8AT68472T8F7Q87YE4RFA78Y4WR78Y728W4AT5
-#EXTINF:-1,PARAMOUNT +
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62d816fcf24d280008762ee9/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1,MEGA TV
-https://hls.servidor.stream/storage/megatv.m3u8
-#EXTINF:-1 tvg-logo="https://mega.tv/wp-content/themes/megatv2015/images/mega-tv-logo.svg" group-title="CENTROAMERICA", MEGA TV PR
-https://livestream.lamusica.com/megatvP320/ngrp:megatvP320_all/playlist.m3u8
-
-#EXTINF:-1,Animal Planett
+#EXTINF:-1 ,Animal Planett
 http://167.114.156.136:25461/live/INFINITV/ZX89NM22/75.ts
-#EXTINF:-1,DISCOVERY KIDS
+#EXTINF:-1 ,DISCOVERY KIDS
 http://167.114.156.136:25461/live/INFINITV/ZX89NM22/210.ts
-#EXTINF:-1,WARNER
+#EXTINF:-1 ,WARNER
 http://167.114.156.136:25461/live/INFINITV/ZX89NM22/59.ts
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Au1Wa24.png" group-title="MEXICO", Fox Sports 🇲🇽 (DTV)
-https://dizf8i52j4sep.cloudfront.net/out/v1/148af6c03e6d48b0a725611fae5ed3a7/index.mpd
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DpnatBM.png" group-title="MEXICO", Fox Sports 2 🇲🇽
-https://d17lgdx4t7a4od.cloudfront.net/out/v1/bca3f8d654aa4cb293e4e9801468a5a3/index.mpd
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/w8sjQN2.png" group-title="MEXICO", Fox Sports 3 🇲🇽
-https://d14a5mi0m64mw7.cloudfront.net/out/v1/8a240d2e8a64453da6288810ede90a60/index.mpd
-
-#EXTINF:-1 group-title="CULTURA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/1280px-World_Discovery_HD_logo.svg.png",_DISCOVERY WORLD 
-http://181.78.24.187:8006/play/a087/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Golden_logo.svg/300px-Canal_Golden_logo.svg.png" group-title="PREMIUM",GOLDEN
-https://linear-408.frequency.stream/408/hls/master/playlist.m3u8
-
-#EXTINF:-1  group-title="CABLE", Sports 18 
-https://prod-sports-north-gm.jiocinema.com:443/bpk-tv/Sports18_1_HD_voot_MOB/Fallback/Sports18_1_HD_voot_MOB-audio_98835_eng=98800-video=3110800.m3u8
-
-#EXTINF:-1  group-title="CABLE", TELEMUNDO PR
+#EXTINF:-1 group-title="CABLE",TELEMUNDO PR
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master_1080.m3u8
-
-#EXTINF:-1  tvg-logo="https://media.tvup.cloud/canales/color_lg_61f7b07144278f00213e4772.png" group-title="CENTROAMERICA",CUBAVISIÓN
-https://tvup-live.secure2.footprint.net/cubavision/cubavision.mpd
-#EXTVLCOPT:http-referrer=https://mediasync.tvup.cloud
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:audio-track="es-ES"
-#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-#EXTVLCOPT--http-reconnect=true
-
-#EXTINF:-1  group-title="CABLE", NEO TV
+#EXTINF:-1 group-title="CABLE",NEO TV
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
-
-#EXTINF:-1  group-title="CABLE", CONTACTO DEPORTIVO
-https://live.obslivestream.com/cdeportivo/index.m3u8
-
-
-#EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/5d8d08395f39465da6fb3ec4/colorLogoPNG.png" group-title="INFANTILES",NICK LATINO
+#EXTINF:-1 group-title="INFANTILES" tvg-logo="http://images.pluto.tv/channels/5d8d08395f39465da6fb3ec4/colorLogoPNG.png",NICK LATINO
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d8d08395f39465da6fb3ec4/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-
-#EXTINF:-1  group-title="CABLE", ABU DHABI SPORT
-https://admdn1ta.cdn.mgmlcdn.com:443/adsports1/smil:adsports1.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
-
-#EXTINF:-1  group-title="CABLE", BEIN SPORTS FR
-http://localiptv62000.from-ok.com:9000/live:domeneprojekat/gzliiQzDPI/93
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/446px-TN_todo_noticias_logo.svg.png" group-title="NOTICIAS",TN
+#EXTINF:-1 group-title="NOTICIAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/446px-TN_todo_noticias_logo.svg.png",TN
 https://live-01-01-tn.vodgc.net/TN24/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.famousstarhotel.co.uk/wp-content/uploads/2020/03/sky-sports-logo-png-8.png" group-title="DEPORTES", SKY 
-http://190.61.102.67:31589/play/a08m/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hH1jyjM/tvmax.jpg" group-title="CENTROAMERICA",TV MAX
+#EXTINF:-1 group-title="CENTROAMERICA" tvg-logo="https://i.ibb.co/hH1jyjM/tvmax.jpg",TV MAX
 https://bcovlive-a.akamaihd.net:443/474b6caf58f8407fb1d1cc1ef64f50ff/us-west-2/6058004209001/profile_0/chunklist_dvr.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/CJmRJrd/nex.jpg" group-title="CENTROAMERICA",NEX TV
+#EXTINF:-1 group-title="CENTROAMERICA" tvg-logo="https://i.ibb.co/CJmRJrd/nex.jpg",NEX TV
 https://mediacp.us:8081/nex/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/Canal_4_TCS.png" group-title="CENTROAMERICA",CANAL 4 ESA
+#EXTINF:-1 group-title="CENTROAMERICA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/Canal_4_TCS.png",CANAL 4 ESA
 http://168.227.22.18:1935/live/mobile-036/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Canal_6_TCS.png" group-title="CENTROAMERICA",CANAL 6 ESA
+#EXTINF:-1 group-title="CENTROAMERICA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Canal_6_TCS.png",CANAL 6 ESA
 http://181.189.243.254:8000/play/a0qk/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/79/Canal_2_TCS.png" group-title="CENTROAMERICA",CANAL 2 ESA
+#EXTINF:-1 group-title="CENTROAMERICA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/79/Canal_2_TCS.png",CANAL 2 ESA
 http://181.189.243.254:8000/play/a0ru/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/TVN_Panam%C3%A1_%282017%29.png" group-title="CENTROAMERICA", TVN PA
+#EXTINF:-1 group-title="CENTROAMERICA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/TVN_Panam%C3%A1_%282017%29.png",TVN PA
 https://bcovlive-a.akamaihd.net/628aecb4fccb4c52b4f9c8d5cc57fb73/us-west-2/6058004209001/profile_0/chunklist_dvr.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.televisiongratis.tv/components/com_televisiongratis/images/mega-1695.png" group-title="ESPAÑA",MEGA ES HD
-https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:15_HD.smil/manifest.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/La_Sexta_%28A3M%29.svg/834px-La_Sexta_%28A3M%29.svg.png" group-title="ESPAÑA",LA SEXTA HD
-https://nodep002.service.openstream.es/SVoriginOperatorEdge2/smil:11_HD.smil/manifest.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Be_Mad_TV.svg/1024px-Be_Mad_TV.svg.png" group-title="ESPAÑA",BEMAD
-https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:20_HD.smil/manifest.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/GOL_PLAY.svg/1024px-GOL_PLAY.svg.png" group-title="ESPAÑA",GOL PLAY
-https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:5_HD.smil/manifest.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/DKISS_2019_logo.svg/1576px-DKISS_2019_logo.svg.png" group-title="ESPAÑA",DKISS
-https://nodep002.service.openstream.es/SVoriginOperatorEdge2/smil:25_HD.smil/manifest.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/Dmax.png" group-title="ESPAÑA",DMAX
-https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:23_HD.smil/manifest.m3u8
-#EXTINF:-1 tvg-logo="https://fb-cdn.matchtv.ru/files/default/upload/0c38/1c08/0c381c0829f5f8d034edc08955310c45.png" group-title="RUSSIA",MATCH TV
+#EXTINF:-1 group-title="RUSSIA" tvg-logo="https://fb-cdn.matchtv.ru/files/default/upload/0c38/1c08/0c381c0829f5f8d034edc08955310c45.png",MATCH TV
 http://uiptv.do.am/1ufc/000000003/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://fb-cdn.matchtv.ru/files/default/upload/ab60/61f4/ab6061f4cecf5112c21bd1e549f467dc.jpg" group-title="RUSSIA", MATCH 2
+#EXTINF:-1 group-title="RUSSIA" tvg-logo="https://fb-cdn.matchtv.ru/files/default/upload/ab60/61f4/ab6061f4cecf5112c21bd1e549f467dc.jpg",MATCH 2
 http://bl.uma.media/live/126864/HLS/6866944_4/2/1/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://fb-cdn.matchtv.ru/files/default/upload/3d63/1cbe/3d631cbef4cc0b09408fc9ac1ada1a99.jpg" group-title="RUSSIA", MATCH 3
+#EXTINF:-1 group-title="RUSSIA" tvg-logo="https://fb-cdn.matchtv.ru/files/default/upload/3d63/1cbe/3d631cbef4cc0b09408fc9ac1ada1a99.jpg",MATCH 3
 http://bl.uma.media/live/126865/HLS/6866944_4/2/1/playlist.m3u8
-
- 
-#EXTINF:-1 tvg-id="CiudadMagica.ar",Ciudad Mágica
-https://videosenlared.fullstreaming.ar:3501/live/grupocitylive.m3u8
-
-#EXTINF:-1 tvg-id="",Trailers
+#EXTINF:-1 ,Trailers
 https://amg01821-lovetvchannels-lovemagazinees-samsungspain-zll2b.amagi.tv/playlist/amg01821-lovetvchannels-lovemagazinees-samsungspain/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Directv Sports + FHD (CO)" tvg-logo="https://img.tvcl.xyz/deportes/directvsports.png" group-title="Deportes",Directv Sports + FHD (CO)
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://img.tvcl.xyz/deportes/directvsports.png",Directv Sports + FHD (CO)
 http://hidra.live:80/xaehsalg/454K7nBmkn/312886
-
-
-
+#EXTINF:-1 ,Antena 6
+http://inliveserver.com:1935/14510/14510/playlist.m3u8
 
