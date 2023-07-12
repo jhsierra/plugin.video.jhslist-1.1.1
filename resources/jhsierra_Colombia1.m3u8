@@ -13,10 +13,28 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00684-accuweather-accuweather-plex/
 https://stmv1.cnarlatam.com/astronet/astronet/playlist.m3u8
 #EXTINF:0,mundotv
 https://stmv1.cnarlatam.com/mundotv/mundotv/playlist.m3u8
+#EXTINF:-1 tvg-id="AventurasTV.ar" tvg-logo="https://i.imgur.com/qt6g1wi.png" group-title="Entertainment",Aventuras TV (360p)
+https://stmv1.cnarlatam.com/mundotv/mundotv/playlist.m3u8
+
+#EXTINF:0,Azteca International
+https://dujft6o2exhah.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0lvc4h1b07aou/mun.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+
 #EXTINF:0,Antena 3 Esp
 http://hidra.live:80/daqgsrmi/6MlLh8s0p3/303674
 #EXTINF:0,Chilevision
 http://187.102.209.92:9010/play/a05g/index.m3u8
+#EXTINF:-1  group-title="CABLE", CANAL 57 USA
+https://167790.global.ssl.fastly.net/6189746bccf0424c112f5476/live_50bbca50292011ed8d265962bedee5f9/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://xtrematv.com/wp-content/uploads/2022/05/logoCARTOONS2.jpg" group-title="INFANTILES", CINE INFANTIL
+https://stmv1.cnarlatam.com/cineinfantil/cineinfantil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://xtrematv.com/wp-content/uploads/2022/05/logoCARTOONS2.jpg" group-title="INFANTILES", CINE INFANTIL
+https://stmv1.cnarlatam.com/cineinfantil/cineinfantil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.sarapiquitvcr.com/images/100.png" group-title="CENTROAMERICA", STV
+http://tiquiciatv.com:1935/stv/web/playlist.m3u8
+
+#EXTINF:-1  group-title="CABLE", PLANETA TV KIDS
+https://tls-cl.cdnz.cl/planetatvkids/live/playlist.m3u8?TecnoPlaylist
+
 #EXTINF:0,CBS
 https://v-px.mybtv.net/live/48.m3u8
 #EXTINF:0,nbc
@@ -41,14 +59,14 @@ https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_35
 http://72.76.116.158:8000/play/a08l/index.m3u8
 #EXTINF:0,FOX 5
 http://72.76.116.158:8000/play/a075/index.m3u8
+#EXTINF:0,adn 40
+http://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 #EXTINF:0,TELEMUNDO
 http://72.76.116.158:8000/play/a07a/index.m3u8
 #EXTINF:0,UNIMAS
 http://72.76.116.158:8000/play/a08b/index.m3u8
 #EXTINF:0,UNIVISION
 http://72.76.116.158:8000/play/a07t/index.m3u8
-#EXTINF:0,Univision Digital
-http://168.227.22.18:1935/live/mobile-045/playlist.m3u8
 #EXTINF:0,Univision
 https://v-ny.mybtv.net/live/643.m3u8
 #EXTINF:0,Telexitos
@@ -129,16 +147,17 @@ https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_
 https://vod-normal-global-cdn-z02.afreecatv.com/v101/afflv14/_definst_/mp4:save/afreeca/station/2022/0725/12/1658720035190551.mp4/playlist.m3u8
 #EXTINF:0,Red+ [Geo-blocked]
 https://inforedvos.lcdn.claro.net.co/Content/HLS_HLS_DIR/Live/channel(REDMASHDWEB)
-#EXTINF:0,Cablenoticias.co
+#EXTINF:-1 tvg-id="CanalTelefamilia.co",Canal Telefamilia (360p)
+https://stmv2.voxtvhd.com.br/telefamilia/telefamilia/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Cablenoticias.co",Cablenoticias (1080p)
 https://5ea86ddd14ce7.streamlock.net/live/cable09061970/playlist.m3u8
+#EXTINF:0,Ahora Caracol HD
+https://mdstrm.com/live-stream-playlist/632391734be92a791e2750e6.m3u8
 #EXTINF:0,Caracol HD
 http://190.187.154.151:8000/play/a083/index.m3u8
 #EXTINF:0,Caracol HD
-http://190.60.39.198:8000/play/a046/index.m3u8
-#EXTINF:0,Caracol HD
 http://190.83.60.34:1414/play/a054
-#EXTINF:0,Caracol HD
-http://181.78.24.187:8006/play/a0bb/index.m3u8
 #EXTINF:0,Caracol  
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36
 https://us-b4-p-e-nq15.cdn.mdstrm.com/live-stream/574463697b9817cf0886fc17/publish/media_2000.m3u8?uid=j9XAaMx9ZP1IBd4kZmvSIBEIVuedKN34&sid=eJ6qVKOK8698NjeFKPolNSYJLzGkPRRv&pid=xpAvtS61cNFKFImNfPYDpmWm8NgZMFRs&ref=https%3A%2F%2Fwww.caracoltv.com%2F&without_cookies=false&listenerid=&dnt=true&ote=1659663804505&ot=EjzmXNwCuNC0qLFjFMqvCg&es=us-b4-p-e-nq15.cdn.mdstrm.com&proto=https&pz=us&aid=574462d1cab0f4d50866f001
@@ -176,8 +195,6 @@ https://live-edge-bhs-1.cdn.enetres.net/184784E1D210401F8041E3E1266822CC021/live
 #EXTINF:0,RCN
 http://181.78.12.119:16123/play/ch59a/index.m3u8
 #EXTINF:0,RCN HD
-http://181.78.24.187:8006/play/a0bk/index.m3u8
-#EXTINF:0,RCN HD
 http://181.78.11.238:8000/play/a03o/index.m3u8
 #EXTINF:0,RCN HD
 http://181.78.21.206:8000/play/a03o/index.m3u8
@@ -196,16 +213,12 @@ https://stream-11.ix7.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12Zd__yIv-k0N2xGlz2N
 http://hidra.live:80/live/daqgsrmi/6MlLh8s0p3/304249.ts
 #EXTINF:0,City TV
 http://200.41.79.165:8000/play/a00g
-#EXTINF:0,City TV
-http://181.78.24.187:8006/play/a0c5/index.m3u8
 #EXTINF:0,SEÑAL COLOMBIA
 http://181.78.12.119:16123/play/ch61/index.m3u8
 #EXTINF:0,Canal institucional tv
 https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/chunklist_b3500000.m3u8
 #EXTINF:0,Canal Institucional HD
 http://181.78.75.11:9500/play/a02c/index.m3u8
-#EXTINF:0,Canal Institucional HD
-http://181.78.24.187:8006/play/a0b5/index.m3u8
 #EXTINF:0,TRECE
 http://181.78.12.119:16123/play/ch64/index.m3u8
 #EXTINF:0,Canal Trece
@@ -216,12 +229,39 @@ http://181.78.12.119:16123/play/ch65/index.m3u8
 http://181.78.12.119:16123/play/ch66/index.m3u8
 #EXTINF:0,TELECAFE
 http://181.78.12.119:16123/play/ch67/index.m3u8
-#EXTINF:0,TELECAFE - CANAL-81
-http://181.78.24.187:8006/play/a0a0/index.m3u8
 #EXTINF:0,TRO
 http://181.78.12.119:16123/play/ch68/index.m3u8
 #EXTINF:0,TV Publica
 http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hH1jyjM/tvmax.jpg" group-title="CENTROAMERICA",TV MAX
+https://bcovlive-a.akamaihd.net:443/474b6caf58f8407fb1d1cc1ef64f50ff/us-west-2/6058004209001/profile_0/chunklist_dvr.m3u8
+
+
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="Infantil" tvg-logo="https://i.postimg.cc/Gt1YX4Zs/TELERED.png",🇪🇸 🧒➾ TeleRed
+http://k4.usastreams.com/ARBtv/teleplus/chunklist_w1566276094.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Golden_logo.svg/300px-Canal_Golden_logo.svg.png" group-title="PREMIUM", Golden Plus
+https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="https://media.tvup.cloud/canales/color_lg_61f7b07144278f00213e4772.png" group-title="CENTROAMERICA",CUBAVISIÓN
+https://tvup-live.secure2.footprint.net/cubavision/cubavision.mpd
+#EXTVLCOPT:http-referrer=https://mediasync.tvup.cloud
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:audio-track="es-ES"
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+#EXTVLCOPT--http-reconnect=true
+
+#EXTINF:-1 group-title="CENTROAMERICA" tvg-id="cubavi.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Cubavisión-Internacional.png",Cubavisión Internacional
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-referrer=https://teveo.cu/
+https://cdn.teveo.cu/live/video/A36pWmuWvZBQskuZ/ngrp:gppfydfzpSUn9Udy.stream/playlist.m3u8
+
+
+#EXTINF:-1  group-title="CABLE", NEO TV
+https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
+
+
 #EXTINF:0,Canal Visión Dorada (720p) [Not 24/7]
 https://movil.ejeserver.com/live/visiondorada.m3u8
 #EXTINF:0,Retro0
@@ -248,6 +288,11 @@ https://play.cdn.enetres.net/184784E1D210401F8041E3E1266822CC023/028/playlist.m3
 https://movil.ejeserver.com/live/veotv.m3u8
 #EXTINF:0,Telecaribe (720p)
 https://tkx.mp.lura.live/rest/v2/mcp/video/adstB64MXYxqLZwy?anvack=4gXmVVoVIp3YeECJWm6af3j0mlHwl6vO&eud=SKjoH1L/9Enwo5zQBiBTRfTSNGfENMNO6udm4CQNVvix/L9XX8kucBOvzWalIghNrL5GllGH8ou17ICYGv29Rg==
+#EXTINF:-1 tvg-id="AnzoateguiTV.ve" tvg-logo="https://i.imgur.com/SLqrEOz.png" group-title="Undefined",Anzoátegui TV (360p)
+https://vcp2.myplaytv.com/anzoateguitv/anzoateguitv/playlist.m3u8
+
+
+
 #EXTINF:0,Fox Now News
 https://t.co/tM2qFm7eg3
 #EXTINF:0,Telemadrid
